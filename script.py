@@ -1,9 +1,9 @@
-#420_NAME_BOT
+#BEER_NAME_GENERATOR
 
 from datetime import datetime
 import random
 
-NUMBER_OF_NAMES = 1 #change this value for more outputs
+NUMBER_OF_NAMES = 100 #change this value for more outputs
 
 for x in range(NUMBER_OF_NAMES):
 
