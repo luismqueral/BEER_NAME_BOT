@@ -1,0 +1,30 @@
+Golden Ale
+Brown Ale
+Brown ale
+Cream Ale
+Golden Ale
+Pale Ale
+Dad Beer
+Light Ale
+Super Light Ale
+Super Light
+German Ale
+Summer Ale
+Winter Ale
+Fall Ale
+Spring Ale
+Red IPA
+Black IPA
+Gueuze
+Dunkelweizen
+Helles
+Summer Ale
+Lambic
+Bock
+Oktoberfestbier
+Milk Stout
+Porter
+Saison
+Schwarzbier
+Weizenbock
+Witbier
